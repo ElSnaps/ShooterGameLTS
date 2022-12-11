@@ -10,7 +10,7 @@ If you're like me, Lyra felt a little bit overwhelming, over-engineered and more
 
 To access the ShooterGame LTS repository, you must signup for a free account at [UnrealEngine.com](https://www.unrealengine.com/en-US) and register your GitHub ID using [these instructions](https://www.unrealengine.com/en-US/ue-on-github).
 
-After that, you can find the repository [here](https://github.com/ElSnaps/ShooterGame).
+After that, you can [find the repository here](https://github.com/ElSnaps/ShooterGame).
 (Note that you must be signed into GitHub for this link to work.)
 
 ## Notable project additions
