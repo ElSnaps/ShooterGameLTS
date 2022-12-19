@@ -6,6 +6,8 @@ ShooterGame LTS (Long-term support) is a port of ShooterGame to Unreal Engine 5 
 
 If you're like me, Lyra felt a little bit overwhelming, over-engineered and more of a showcase than an appropriate replacement for ShooterGame which acted for many as a template. This project exists to solve that problem.
 
+Feel free to join us over on the [official discord](https://discord.gg/GQW7cGJpzZ)!
+
 ## How to get access
 
 To access the ShooterGame LTS repository, you must signup for a free account at [UnrealEngine.com](https://www.unrealengine.com/en-US) and register your GitHub ID using [these instructions](https://www.unrealengine.com/en-US/ue-on-github).
@@ -13,7 +15,17 @@ To access the ShooterGame LTS repository, you must signup for a free account at 
 After that, you can [find the repository here](https://github.com/ElSnaps/ShooterGame).
 (Note that you must be signed into GitHub for this link to work.)
 
-## Notable project additions
-* IWYU & Build Settings V2
-* Enhanced Input
-* Asset Manager
+## Notable project changes
+| Feature                   | Status        |
+| -------------             | ------------- |
+| Console Support           | Partial       |
+| Slate / Canvas UI         | Replaced      |
+| CompanionApp / WebServer  | Removed       |
+| Nvidia Reflex             | Removed       |
+| IWYU & Build Settings V2  | Added         |
+| Enhanced Input            | Added         |
+| Asset Manager             | Added         |
+| CommonLoadingScreen       | Added         |
+| UMG UI Replacement        | Partial       |
+| Game Settings             | Todo          |
+| Gameplay Messenger        | Todo          |
