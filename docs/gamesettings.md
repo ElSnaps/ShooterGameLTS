@@ -49,3 +49,5 @@ It is also important that the type of `UGameSetting` that you use is correct for
 ```cpp
 void SetFullscreenMode(EWindowMode::Type InFullscreenMode);
 ```
+
+You can also see Epic's official [Game Settings Documentation](https://docs.unrealengine.com/5.0/en-US/lyra-sample-game-settings-in-unreal-engine/) for more information regarding how it works.
