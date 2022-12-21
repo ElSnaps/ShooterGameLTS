@@ -26,9 +26,9 @@ In ShooterGame LTS, I tried to go with a pretty simple setup that somewhat match
 
 # Loading our Data
 
-One drawback of Enhanced Input is that the related data is now stored as an asset. Which means you must load it yourself.
+One drawback of Enhanced Input is that the related data is now stored as an asset. Which means you must load it yourself. ShooterGame LTS is setup to use an `AssetManager` to load a general game data asset when the game or project loads. The game data asset can be found at the root `/Content` directory level.
 
-ShooterGame LTS is setup to use an `AssetManager` to load a general game data asset when the game or project loads. This asset type can be found under `UShooterGameData` in `ShooterGameData.h` and it contains asset references to all the `Input Actions` and `Input Mapping Contexts` in usage. Since this game data asset is checked and loaded when the project starts up you can assume that it's going to be safe to use in any game function.
+This code for this asset type can be found under `UShooterGameData` in `ShooterGameData.h` and it contains asset references to all the `Input Actions` and `Input Mapping Contexts` in usage. Since this game data asset is checked and loaded when the project starts up you can assume that it's going to be safe to use in any game function. 
 
 Here we use it to load an `Input Mapping Context`:
 ```cpp
