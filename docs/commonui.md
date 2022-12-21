@@ -39,7 +39,7 @@ If you came here from Lyra, you might be sad that i'm not using the gameplay tag
 
 # Activatable Widgets
 
-My first opinion of these things was "wtf is this". When you get your brain into "CommonUI" mode, It actually makes sense. Pretty much all this widget does is disappear when you activate or deactivate it, you don't have to `RemoveFromViewport()` or `RemoveFromParent()` anymore, which came with a GC cost. Instead you now just call `DeactivateWidget()` on it, and it will automatically remove itself from the screen, bringing any queued widgets forward to the front. As such it is important that you keep a reference to your widget if you want to reuse it.
+My first opinion of these things was "wtf is this". When you get your brain into "CommonUI" mode, It actually makes sense. Pretty much all this widget does is show / hide when you activate or deactivate it, you don't have to `RemoveFromViewport()` or `RemoveFromParent()` anymore, which came with a GC cost. Instead you now just call `DeactivateWidget()` on it, and it will automatically remove itself from the screen, bringing any queued widgets forward to the front. As such it is important that you keep a reference to your widget if you want to reuse it.
 
 You can add widgets back onto to the screen with:
 ```cpp
