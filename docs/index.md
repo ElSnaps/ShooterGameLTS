@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-Hey! Welcome to the ShooterGame LTS Documentation. You're probably here because you want to understand some of the fundamentals about ShooterGame LTS. This Documentation aims to be a better resource for learning ShooterGame and the new concepts i've introduced to it than [the official Epic provided one](https://docs.unrealengine.com/4.27/en-US/Resources/SampleGames/ShooterGame/).
+Hey! Welcome to the ShooterGame LTS Documentation. You're probably here because you want to understand some of the fundamentals about ShooterGame LTS. This Documentation aims to be a better resource than [the official Epic provided one](https://docs.unrealengine.com/4.27/en-US/Resources/SampleGames/ShooterGame/) for learning ShooterGame and the new concepts i've introduced to it. Enjoy your stay.
 
 Please do remember I (Snaps) am just one person, and so not *everything* may be documented. But know that I will try my best and this documentation will hopefully improve over time. <3
 

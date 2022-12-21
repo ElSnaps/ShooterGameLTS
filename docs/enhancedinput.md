@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CommonUI
-description: Some info about the CommonUI plugin and it's implementation within ShooterGame LTS.
+title: EnhancedInput
+description: How ShooterGame LTS uses Enhanced Input. It's like normal inputs but much more better.
 ---
 
 ## Gah there's nothing here yet.

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CommonUI
-description: Some info about the CommonUI plugin and it's implementation within ShooterGame LTS.
+title: GameSettings
+description: Whoa dude, we actually have like, a usable settings menu now.
 ---
 
 ## Gah there's nothing here yet.

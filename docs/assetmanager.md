@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CommonUI
-description: Some info about the CommonUI plugin and it's implementation within ShooterGame LTS.
+title: AssetManager
+description: How ShooterGame LTS utilizes the AssetManager.
 ---
 
 ## Gah there's nothing here yet.
