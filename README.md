@@ -18,14 +18,14 @@ After that, you can [find the repository here](https://github.com/ElSnaps/Shoote
 ## Notable project changes
 | Feature                   | Status        |
 | -------------             | ------------- |
-| Console Support           | Partial       |
-| Slate / Canvas UI         | Replaced      |
 | CompanionApp / WebServer  | Removed       |
 | Nvidia Reflex             | Removed       |
+| Console Support           | Partial       |
+| Slate / Canvas UI         | Replaced      |
+| Chat System               | Replaced      |
 | IWYU & Build Settings V2  | Added         |
 | Enhanced Input            | Added         |
 | Asset Manager             | Added         |
 | CommonLoadingScreen       | Added         |
-| UMG UI Replacement        | Partial       |
-| Game Settings             | Todo          |
-| Gameplay Messenger        | Todo          |
+| UMG & Common UI           | Added         |
+| Game Settings             | Added         |
